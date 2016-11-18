@@ -66,17 +66,17 @@ section .row img {
   border: 0px;
   color: #fbd1d5;
   text-shadow: none;
-  background-color: #ffffff;
+  background-color: #c8e3c4;
 }
 
 .btn.btn-primary:hover {
-  color: #ffffff;
+  color: #c8e3c4;
   background-color: #fbd1d5;
 }
 
 .btn-secondary {
   background-color: #E8DFE0;
-  color: #ffffff;
+  color: #c8e3c4;
   margin: 0 0 30px;
 }
 
