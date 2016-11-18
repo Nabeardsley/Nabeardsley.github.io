@@ -32,7 +32,6 @@ header p {
   display: flex;
   align-items: center;
   background-image: url('test.jpg'); 
- 
   background-size: cover;
   background-repeat:no-repeat;
   background-position:center; 
