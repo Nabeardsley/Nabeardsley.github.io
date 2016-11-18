@@ -32,6 +32,7 @@ header p {
   display: flex;
   align-items: center;
   background-image: url('test.jpg'); 
+  opacity: 0.75;
   background-size: cover;
   background-repeat:no-repeat;
   background-position:center; 
