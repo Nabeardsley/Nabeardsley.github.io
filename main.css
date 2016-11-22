@@ -1,12 +1,12 @@
 body {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
-  background-color: #c8e3c4;
+  background-color: #edfaeb;
 }
 
 header {
-  padding: 20px 0;
-  background-color: #FFFFFF;
+  //padding: 20px 0;
+  background-color: #e6ffff;
 }
 
 header .row,
