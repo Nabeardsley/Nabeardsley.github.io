@@ -33,7 +33,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('test.jpg'); 
+  background-image: url('Farm.jpg'); 
   background-size: cover;
   background-repeat:no-repeat;
   background-position:center; 
