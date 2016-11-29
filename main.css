@@ -93,6 +93,10 @@ section .row img {
   object-fit: cover;
 }
 
+.col-sm-6 iframe{
+
+  object-fit: cover;
+}
 
 footer {
   font-size: 12px;
